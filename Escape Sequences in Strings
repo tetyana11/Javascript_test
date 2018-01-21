@@ -1,0 +1,12 @@
+/*Escape Sequences in Strings
+"FirstLinenewlinebackslashSecondLinebackslashcarriage-returnThirdLine" 
+myStr should have encoded text with the proper escape sequences and no spacing.
+myStr should have one newline character \n
+myStr should have one carriage return character \r
+myStr should have two correctly escaped backslash characters \\
+*/
+
+var myStr;
+myStr="FirstLine\n\\SecondLine\\\rThirdLine";
+
+
