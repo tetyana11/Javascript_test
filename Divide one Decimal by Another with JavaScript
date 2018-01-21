@@ -1,0 +1,6 @@
+/*Divide one Decimal by Another with JavaScript 
+
+Change the 0.0 so that quotient will equal to 2.2*/
+
+var quotient = 2.2 / 1.0;
+

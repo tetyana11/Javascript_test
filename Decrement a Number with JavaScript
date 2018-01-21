@@ -1,0 +1,12 @@
+/*Decrement a Number with JavaScript 
+Change the code to use the -- operator on myVar.
+myVar should equal 10
+Use the -- operator on myVar
+Do not change code above the line */
+
+var myVar = 11;
+
+// Only change code below this line
+myVar --;
+
+ 
