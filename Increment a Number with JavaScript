@@ -1,0 +1,16 @@
+/*Increment a Number with JavaScript 
+Change the code to use the ++ operator on myVar.
+
+myVar should equal 88
+myVar = myVar should be changed
+Use the ++ operator
+Do not change code above the line*/
+
+
+var myVar = 87;
+
+// Only change code below this line
+ myVar++;
+
+
+
