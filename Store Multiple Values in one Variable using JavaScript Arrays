@@ -1,0 +1,12 @@
+/* myArray should be an array.
+The first item in myArray should be a string.
+The second item in myArray should be a number.
+*/
+
+
+// Example
+var ourArray = ["John", 23];
+
+// Only change code below this line.
+var myArray = ["Tanja", 32];
+
