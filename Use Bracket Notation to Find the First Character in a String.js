@@ -1,0 +1,17 @@
+/* The firstLetterOfLastName variable should have the value of L.
+You should use bracket notation. */
+
+// Example
+var firstLetterOfFirstName = "";
+var firstName = "Ada";
+
+firstLetterOfFirstName = firstName[0];
+
+// Setup
+var firstLetterOfLastName = "";
+var lastName = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastName[0];
+
+
